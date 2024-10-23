@@ -6,7 +6,7 @@ I occasionally have difficulty judging how far into the garage I am. Sure, I cou
 
 ## The Device
 
-<img src="images/sideOn.png" alt="sideOn" style="zoom:48%;" /><img src="images/inBox.png" alt="inBox" style="zoom:40%;" />
+<img src="images/devicePicture.png" alt="sideOn" style="zoom:48%;" />
 
 Here's a list of the parts I used:
 
