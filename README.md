@@ -15,18 +15,18 @@ I occasionally have difficulty judging how far into the garage I am. Sure, I cou
 
 Here's a list of the parts I used:
 
-| Name                                      | Link                                    | Notes                                                      |
-| ----------------------------------------- | --------------------------------------- | ---------------------------------------------------------- |
-| SparkFun Thing Plus - Artemis             | https://www.sparkfun.com/products/15574 |                                                            |
-| SparkFun Qwiic Mini dToF Imager - TMF8820 | https://www.sparkfun.com/products/19218 |                                                            |
-| SparkFun Qwiic LED Stick - APA102C        | https://www.sparkfun.com/products/18354 |                                                            |
-| Waterproof Outdoor Electrical Box         | https://www.amazon.com/dp/B0D2H8ZPG7    | The mounting board inside makes it easy to add stand-offs. |
-| SparkFun Qwiic Alphanumeric Display - Red | https://www.sparkfun.com/products/16916 | Debug display, not required.                               |
-| 16-foot USB-A to USB-C right-angle cable. | https://www.amazon.com/dp/B09ZTWHFHF    | The right-angle feature isn't required.                    |
+| Name                                      | Link                                    | Notes                                                        |
+| ----------------------------------------- | --------------------------------------- | ------------------------------------------------------------ |
+| SparkFun Thing Plus - Artemis             | https://www.sparkfun.com/products/15574 |                                                              |
+| SparkFun Qwiic Mini dToF Imager - TMF8820 | https://www.sparkfun.com/products/19218 |                                                              |
+| SparkFun Qwiic LED Stick - APA102C        | https://www.sparkfun.com/products/18354 |                                                              |
+| Waterproof Outdoor Electrical Box         | https://www.amazon.com/dp/B0D2H8ZPG7    | The mounting board inside makes it easy to add stand-offs. The distance sensor couldn't see through the cover, hence the rough opening. |
+| SparkFun Qwiic Alphanumeric Display - Red | https://www.sparkfun.com/products/16916 | Debug display, not required.                                 |
+| 16-foot USB-A to USB-C right-angle cable. | https://www.amazon.com/dp/B09ZTWHFHF    | The right-angle feature isn't required.                      |
 
 #### Notes:
 
-<img src="images/debugDisplay.png" alt="debugDisplay" style="zoom:33%;" />
+<img src="images/debugDisplay.png" alt="debugDisplay" />
 
 The alphanumeric display is helpful for testing but not required for "production."
 
