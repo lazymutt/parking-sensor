@@ -1,6 +1,6 @@
 # A parking sensor
 
-This is my first foray into this kind of computing. I've had a couple of Arduinos for years and have never done anything with them other than blink. My best buddy is a teacher in the Pacific Northwest and built a split-flap display. He has to jump through some hoops, which could be eliminated. But to help him, I needed to gain some experience with this kind of programming. This is the result.
+This is my first foray into this kind of computing. I've had a couple of Arduinos for years and have never done anything with them other than blink. My best buddy is a teacher in the Pacific Northwest and built a split-flap display. He has to jump through some hoops to use it, and I think I could make it much more efficient. But to help him, I needed to gain some experience with this kind of programming. This is the result.
 
 I occasionally have difficulty judging how far into the garage I am. Sure, I could command tape a marker to the garage wall or use the car's own parking sensor to tell me I'm getting close to the wall. But that's no fun.
 
