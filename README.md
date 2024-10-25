@@ -4,6 +4,10 @@ This is my first foray into this kind of computing. I've had a couple of Arduino
 
 I occasionally have difficulty judging how far into the garage I am. Sure, I could command tape a marker to the garage wall or listen to the car's parking sensor telling me I'm getting close to the wall. But that's no fun. 
 
+https://github.com/user-attachments/assets/31ec9c11-b12f-45dc-9a29-4fb5ece76d19
+
+
+
 ## The Device
 
 <img src="images/devicePicture.png" alt="sideOn" style="zoom:48%;" />
