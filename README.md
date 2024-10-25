@@ -2,7 +2,7 @@
 
 This is my first foray into this kind of computing. I've had a couple of Arduinos for years and have never done anything with them other than blink. My best buddy is a teacher in the Pacific Northwest and built a split-flap display. He has to jump through some hoops, which could be eliminated. But to help him, I needed to gain some experience with this kind of programming. This is the result.
 
-I occasionally have difficulty judging how far into the garage I am. Sure, I could command tape a marker to the garage wall or listen to the car's parking sensor telling me I'm getting close to the wall. But that's no fun. 
+I occasionally have difficulty judging how far into the garage I am. Sure, I could command tape a marker to the garage wall or use the car's own parking sensor to tell me I'm getting close to the wall. But that's no fun.
 
 <video width="960" height="540" src="https://github.com/user-attachments/assets/31ec9c11-b12f-45dc-9a29-4fb5ece76d19"></video>
 
@@ -28,4 +28,16 @@ Here's a list of the parts I used:
 The alphanumeric display is helpful for testing but not required for "production."
 
 I attempted to use a POE cable set, but it never seemed to provide enough power to operate the whole device.
+
+
+
+## The Code
+
+The source code is very straightforward, and the libraries to control things are easy to use. But I did run into a couple of interesting issues:
+
+- Getting the light to turn off after the car has been parked
+- Tuning the distance sensor's confidence values to judge if there's something in it's field of view and not a weird reflection
+- Getting the animations to look right
+
+
 
